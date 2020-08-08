@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.zvhub.com</id>
     <title>古道客</title>
-    <updated>2020-08-06T14:50:54.788Z</updated>
+    <updated>2020-08-08T01:16:36.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.zvhub.com"/>
     <link rel="self" href="https://blog.zvhub.com/atom.xml"/>
@@ -10,6 +10,29 @@
     <logo>https://blog.zvhub.com/images/avatar.png</logo>
     <icon>https://blog.zvhub.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 古道客</rights>
+    <entry>
+        <title type="html"><![CDATA[疹子还没好彻底，又受伤了☹️]]></title>
+        <id>https://blog.zvhub.com/post/zhen-zi-huan-mei-hao-che-di-you-shou-shang-liao/</id>
+        <link href="https://blog.zvhub.com/post/zhen-zi-huan-mei-hao-che-di-you-shou-shang-liao/">
+        </link>
+        <updated>2020-08-07T15:12:16.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://blog.zvhub.com/post-images/1596813200972.jpeg" alt="手指受伤" loading="lazy"></figure>
+<pre><code>半个指甲都没了😭…… 
+</code></pre>
+<figure data-type="image" tabindex="2"><img src="https://blog.zvhub.com/post-images/1596813338903.jpg" alt="切手指的凶器" loading="lazy"></figure>
+<pre><code>这是凶器…… 最近朋友买的牌子…… 没忍住想把老刀换掉……
+话说还是真锋利…… 刀体有薄又轻 …… 切肉超省力😂
+</code></pre>
+<figure data-type="image" tabindex="3"><img src="https://blog.zvhub.com/post-images/1596814213332.jpg" alt="旧的伴侣" loading="lazy"></figure>
+<pre><code>这个跟了我二十多年了…… 
+很是沉稳，不像那个新家伙锋芒毕露…… 
+</code></pre>
+<hr>
+<blockquote>
+<p>还是换回老的吧…… 衣不如新，刀不如旧🤓😎</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这几天胳膊起疹子了，时不时痒的难受 ......]]></title>
         <id>https://blog.zvhub.com/post/zhe-ji-tian-ge-bo-qi-zhen-zi-liao-shi-bu-shi-yang-de-nan-shou/</id>
@@ -41,7 +64,9 @@
 始知锁向金笼听，<br>
 不及林间自在啼。</p>
 <hr>
-<pre><code>韶华疲于名利场，何翼得出世外园。</code></pre>
+<blockquote>
+<p>韶华疲于名利场，何翼得出世外园。</p>
+</blockquote>
 ]]></content>
     </entry>
 </feed>
